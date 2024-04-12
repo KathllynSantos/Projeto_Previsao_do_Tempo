@@ -28,11 +28,22 @@
 https://github.com/KathllynSantos/Projeto_Previsao_do_Tempo/assets/120657741/a2a71cf2-af13-4775-a025-d8d86faa4d4c
 
 Você pode conferir o resultado do projeto
- <a href="https://kathllynsantos.github.io/Projeto_Previsao_do_Tempo/"> aqui!
-  </a>
+ <a href="https://kathllynsantos.github.io/Projeto_Previsao_do_Tempo/"> aqui!</a>
+
+<h2>🛠️ Como Testar</h2>
+<ol>
+  <li>Faça o clone deste repositório em sua máquina local.</li>
+  <li>Abra o arquivo index.html em seu navegador.</li>
+  <li>Digite o nome da cidade desejada no campo de busca.</li>
+  <li>Clique na lupa para visualizar a previsão do tempo da cidade escolhida.</li>
+</ol>
 
 <h2>:open_file_folder: Acesso ao Projeto</h2>
 
 Você pode [acessar o código fonte do projeto inicial](https://github.com/KathllynSantos/Projeto_Previsao_do_Tempo) ou [baixá-lo](https://github.com/KathllynSantos/Projeto_Previsao_do_Tempo/files/14962691/Projeto_Previsao_do_Tempo-main.zip).
+
+<h2>📚 Mais informações do curso</h2>
+
+Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://rodolfomori.com.br/devclub-n1/) que desenvolve o projeto desde o começo!
 
 
